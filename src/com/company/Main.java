@@ -30,6 +30,7 @@ public class Main {
         System.out.print((hora>12) ? (hora -12) : hora);
         System.out.print(" en punto ");
 
+        System.out.println("Una prueba en GIT");
 
 
 
